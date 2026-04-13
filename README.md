@@ -96,3 +96,11 @@ Raw data files are not included in this repository due to size. See `data/README
 2. Run scripts 00–07 in order from the project root
 3. All random operations use seed `2026`
 4. All paths are relative to the project root — no `setwd()` or absolute paths required
+
+---
+
+## Note on Large Files
+
+Some files across the `data/`, `docs/`, and `output/` folders exceed GitHub's 100 MB file size limit and are not included in this repository. This includes certain raw data files, intermediate flag files (notably `docs/Flags/duplicate_records.csv` at ~1.5 GB and `docs/Flags/enrollment_discrepancies.csv` at ~33 MB), and any large model or processed data files.
+
+**Every missing file can be fully recreated by running the pipeline scripts in order.** No outputs are hand-edited or manually produced — all results flow deterministically from the raw IPEDS and College Scorecard data through scripts 00–07. See each folder's `README.md` for details on which files are excluded and which script regenerates them.
