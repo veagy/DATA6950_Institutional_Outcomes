@@ -1,0 +1,4 @@
+efficiency_tier,n,instr_exp_per_fte,stud_serv_exp_per_fte,stud_fac_ratio,pell_pct,grad_rate_150_4yr,avg_efficiency_score
+High-Efficiency,501,10964.2593,4443.641,31.5142,0.2861,0.6599,0.9463
+Mid-Efficiency,501,9246.9011,4051.5371,31.2456,0.3801,0.5614,0.8482
+Low-Efficiency,501,7540.7138,3341.9736,41.2447,0.524,0.4399,0.752
