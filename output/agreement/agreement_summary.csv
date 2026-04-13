@@ -1,0 +1,3 @@
+model,spearman_rho,spearman_p,n,cohen_kappa
+Random Forest,0.8836,0.0,1194,0.5997
+XGBoost,0.8888,0.0,1194,0.6047
