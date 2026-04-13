@@ -1,0 +1,5 @@
+outcome,r2_full,r2_cost_only,r2_improvement,p_value,significant
+grad_rate_150_4yr,0.9796,0.5938,0.3858,0.0,True
+median_earnings_6yr,0.739,0.5362,0.2028,0.0,True
+loan_repayment_3yr,0.7202,0.4346,0.2856,0.0,True
+avg_efficiency_score,0.7289,0.1993,0.5297,0.0,True
