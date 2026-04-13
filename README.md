@@ -1,5 +1,3 @@
-# DATA6950_Institutional_Outcomes
-
 # Predicting Institutional Outcomes Through Efficiency Modeling and Machine Learning
 ### DATA 6950 — Graduate Capstone Project, Spring 2026
 
