@@ -1,0 +1,13 @@
+model,outcome,spearman_rho
+random_forest,grad_rate_150_4yr,0.8927
+xgboost,grad_rate_150_4yr,0.9752
+elastic_net,grad_rate_150_4yr,0.9956
+random_forest,median_earnings_6yr,0.9228
+xgboost,median_earnings_6yr,0.9474
+elastic_net,median_earnings_6yr,0.9158
+random_forest,loan_repayment_3yr,0.7947
+xgboost,loan_repayment_3yr,0.8228
+elastic_net,loan_repayment_3yr,0.8506
+random_forest,avg_efficiency_score,0.8719
+xgboost,avg_efficiency_score,0.9
+elastic_net,avg_efficiency_score,1.0
